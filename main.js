@@ -76,7 +76,7 @@ image :- ${img},
 price :- ${price},
 
 `)
-        let phone = '918520800787'
+        let phone = '917815907836'
         redirect.setAttribute('href', `https://api.whatsapp.com/send?phone=${phone}&text=${msg}`)
     }
 })
