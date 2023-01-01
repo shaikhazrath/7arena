@@ -69,8 +69,6 @@ cards.forEach((card) => {
         let msg = encodeURI(`
 Hi there, I wanna buy this item 
 
-product name :- ${pname}, 
-
 image :- ${img},
 
 price :- ${price},
